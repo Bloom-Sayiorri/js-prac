@@ -3,11 +3,14 @@ body {
     padding: 0;
 }
 
+div[data-color] {
+    color: red;
+}
+
 li {
     list-style-type: disc;
 }
 
-main ul {
+main > h1 {
     color: green;
 }
-   
