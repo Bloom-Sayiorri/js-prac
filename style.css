@@ -12,5 +12,5 @@ li {
 }
 
 main > h1 {
-    color: green;
+    background-color: hsl(104, 100%, 50%);
 }
