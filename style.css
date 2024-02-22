@@ -14,3 +14,8 @@ li {
 main > h1 {
     background-color: hsl(104, 100%, 50%);
 }
+
+.simple {
+    height: 100px;
+    background: repeating-linear-gradient(-45deg, yellow, yellow 10%, black 10%, black 20% )
+}
