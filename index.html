@@ -5,11 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JS-Practice</title>
     <link href="style.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/qrcode-generator/qrcode.js"></script>
+
+    <script>
+        function generateQrCode() {
+            // Data to encode in the QR code
+            console.log("clicked");
+            let data = "https://example.com";
+
+            // Create QR Code instance
+            let qr = qrcode(0, 'M');
+            qr.addData(data);
+            qr.make();
+
+            // Generate QR Code image
+            let qrImage = qr.createImgTag(5); // Size of QR code (5 is default)
+
+            // Append QR Code image to the HTML element with id "qrcode"
+            document.getElementById("qrCode").innerHTML = qrImage;
+        };
+    </script>
 </head>
 <body>
-    <main>
+    <!-- <main>
         <div data-color="green">This will be red</div>
-        <h1>Projects</h1>
+        <h1 class="bg-blue-500">Projects</h1>
         <ul>
             <li>A movie project</li>
             <li>A countdown timer project</li>
@@ -66,7 +86,10 @@
             </optgroup>
            </select>
            <p class="simple">Radial</p>
-    </main>
+    </main> -->
+
+    <div id="qrCode" class="h-40 w-40"></div>
+    <button onclick="generateQrCode()" class="text-sm font-medium bg-green-400 absolute bottom-0 rounded-md py-1 px-8 mb-6 text-center">Scan QR Code</button>
     <script type="text/javascript" src="black-jack-game.js"></script>
 </body>
 </html>
