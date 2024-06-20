@@ -1,101 +1,102 @@
 This repo contains my JavaScript Projects, as a 100 Day Coding Challenge.
 All the projects are hosted online and links are provided.
 
-1. Blackjack Game
-2. Calculator
-3. Countdown App
-4. Movie App
-5. QR Code Generator
-6. Image Slider
-7. Background Colo Changer
-8. Form Vlalidation
-9. Analog Clock
-10. Random Quote Generator
-11. Newsletter Pop Up
-12. Live Chatracter Counter
-13. Weight Converter
-14. Add to Cart Animation
-15. Message/Text Saver
-16. CSS Chnager
-17. BMI Calculator
-18. Digital Clock
-19. Zoom In-Out
-20. Day Today
-21. Stopwatch
-22. Testimonials
-23. 3D Card
-24. Fluid Image Popup
-25. Long-Shadow
-26. Background-Animation
-27. Random Meal Generator
-28. ULive Twitter Feed
-29. Password Generator
-30. Reviews Design
-31. Voting App
-32. Next Year Countdown
-33. Blog Post Design
+#### Alphabetic Order
+
+1.3D Card
+2. Add to Cart Animation
+3. Age Calculator
+4. Alarm app
+5. Analog Clock
+6. Background Animation
+7. Background Color Chnager
+8. Blackjack Game
+9. Blog Post UI Design
+10. BMI Caclcuator
+11. Budget App
+12. Calculator
+13. Captcha App
+14. Car Avoidance Game
+15. Chat App UI
+16. Chatbot App
+17. Chess Game
+18. Chrome Translator App
+19. Coin Toss Game
+20. Color Matching Game
+21. Confetti Effect
+22. Contact Page Design 
+23. Countdown Timer
+24. Country Flag Matcher
+25. Course Card UI
+26. CSS Pulse Effect
+27. Custom Video Player
+28. Dad Jokes Generator
+29. Day Today
+30. Digital Clock
+31. Donate Design
+32. Event Calendar App
+33. Exchange Rate Calculator
 34. Find It
-35. Exchange Rate Calculator
-36. Loading Animation
-37. Theme Tgoggler
-38. Side Menu Animation
-39. Car Avoidance Game3
-40. Blog Posts Design
-41. Color Matching Game
-43. CSS Pulse Effect
-44. Course Card UI
-45. Rain Drops
-46. Mouse Drag Effect
-47. Tooltip
-48. Traffic Lights
-49. Invoice Design
-50. Social Links
-51. Dad Jokes Generaotr
-52. Donate Design
-53. Message Cars Design
-54. Rotaion Slideshow
-55. Image Password Strength
-56. Verify Account Design
-57. Particles Floating On Mouse Hover
-58. Pricing Design
-59. Typing Spped Test
-60. Contact Page Design
-62. Math Wizz Game
-62. User Profile Design
-63. Find It
-64. Weather App 
-65. To Do App
-66. Snake Game
-67. Budget App
-68. Spin Wheel App
-69. Guess The Word Game
-70. Music Player App
-71. Alarm App
-72. Event Calendar App
-73. Api Quiz Game
-74. News Aggregator App
-75. Captcha App
-76. Speecth to Text
-77. Chrome Translator App
-78. Chess Game
-79. Chatbot API
-80. Javascript Age Calculator
-81. OTP Password Generator
-82. Javascript Flashlight Effect
-83. Gradient Color Generator
-84. RGB Color Generator
-85. Pakindriome Checker App
-86. Sliding Image Puzzle
-87. Memes App
-88. Coin Toss Game
-89. Rock Paper Scissors Game
-90. Custom Video Player
-92. Confetti Effect
-93. Scrathc Card Javascript
-94. Simon Says Game
-95. Text Editing App
-96. Notes App
-97. Meal Finder
-98. Chat UI
-99. Magazine Layout
-100. Official Website for #100daysofcode
+35. Flashlight Effect
+36. Fluid Image Popup
+37. Form Validation
+38. Gradient Color Generator
+39. Guess The Word Game
+40. Image Password Strength
+41. Image Slider
+42. Invoice Design
+43. Live Character Counter
+44. Live Twitter Feed
+45. Loading Animation
+46. Magazine Layout
+47. Math Wizz Game
+48. Meal Finder
+49. Memes App
+50. Message Card Design
+51. Message Saver
+52. Mouse Drag Effect
+53. Movie App
+54. Music Player App
+55. News Aggregator App
+56. Newsletter Popup
+57. Next Year Countdown
+58. Notes App
+59. OTP Password Generator
+60. Palindrome Checker
+61. Particles Floating On Mouse Hover
+62. Password Generator
+63. Pricing UI Design
+64. QR Code Generator
+65. Quiz Game
+66. Rain Drops Effect
+67. Random Quote Generator
+68. Reviews UI Design
+69. RGB Color Generator
+70. Rock Paper Scissors Game
+71. Rotation Slideshow
+72. Scratch Card
+73. Shadow Generator
+74. Side Menu UI Design
+75. Simon Says Game
+76. Sliding Image Puzzle
+77. Snake Game
+78. Social Links
+79. Speech To Text
+80. Spin Wheel App
+81. Stopwatch
+82. Testimonials 
+83. Text Editing App
+84. Theme Toggler 
+85. To Do App
+86. Tooltip
+87. Traffic Lights
+88. Typing Speed Test
+89. User Profile Design
+90. Verify Account Design
+91. Voting App
+92. Weather App
+93. Weather Outfit Picker
+94. Weight Converter
+95. Zoom In-Out
+
+100. Officcial Website for #100daysofcode
