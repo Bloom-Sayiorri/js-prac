@@ -2,13 +2,45 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Montserrat", sans-serif;
 } 
 
 body{
+    font-family: Poppins, sans-serif;
+    height: 100vh;
+}
+
+.container {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100%;
+    width: 100%;
+    gap: 10px;
+}
+
+h1 {
+    font-size: 2.2em;
+}
+
+p {
+    font-size: 1.2em;
+    /* border-radius: 10px 5% / 20px 25em 30px 35em; */
+    border: n;
+
+}
+
+.btn {
+    color: white;
+    background-color: rgb(22, 22, 204);
+    border: none;
+    border-radius: 10px;
+    padding: .7em 1em;
+    width: 10%;
+    font-size: 1em;
+}
+
+.btn:hover {
+    background-color: blue;
+    transform: scaleX(1);
 }
